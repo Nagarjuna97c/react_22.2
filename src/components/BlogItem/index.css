@@ -1,0 +1,6 @@
+.post-container {
+  display: grid;
+  grid-template-columns: 1fr 100px;
+  border-bottom: 1px solid #9aa5b159;
+  margin-right: 10px;
+}
